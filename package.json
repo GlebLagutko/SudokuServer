@@ -1,0 +1,11 @@
+{
+  "name": "SudokuServer",
+  "version": "1.0.0",
+  "devDependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2"
+  },
+  "type": "module"
+}
